@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '8e3c553ab0011878709a5b8cad7a3e00feff12ec',
+    'reference' => 'd5fb199358e277bf13d4a75ba3c3fdeee613ecbd',
     'name' => 'maithemewp/mai-influence',
   ),
   'versions' => 
@@ -36,7 +36,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '8e3c553ab0011878709a5b8cad7a3e00feff12ec',
+      'reference' => 'd5fb199358e277bf13d4a75ba3c3fdeee613ecbd',
     ),
     'maithemewp/mai-installer' => 
     array (
