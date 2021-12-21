@@ -13,6 +13,14 @@
         }
     ],
     "require": {
+        "afragen/wp-dependency-installer": "^4.2",
         "maithemewp/mai-installer": "dev-master"
-    }
+    },
+    "config": {
+        "preferred-install": {
+            "*": "dist"
+        },
+        "sort-order": true
+    },
+    "minimum-stability": "dev"
 }

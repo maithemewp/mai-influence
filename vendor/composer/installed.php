@@ -6,28 +6,29 @@
     'aliases' => 
     array (
     ),
-    'reference' => 'd5fb199358e277bf13d4a75ba3c3fdeee613ecbd',
+    'reference' => '034ac62a8bdd7b0acc1d226dad79494f9e433126',
     'name' => 'maithemewp/mai-influence',
   ),
   'versions' => 
   array (
     'afragen/wp-dependency-installer' => 
     array (
-      'pretty_version' => '3.1.0',
-      'version' => '3.1.0.0',
+      'pretty_version' => '4.2.2',
+      'version' => '4.2.2.0',
       'aliases' => 
       array (
       ),
-      'reference' => '65570a1eb966bb9adfc9d9e521357da080fbdc5a',
+      'reference' => '5e5419348c6cde7b02f3c33fb3fc3381062443a1',
     ),
-    'collizo4sky/persist-admin-notices-dismissal' => 
+    'afragen/wp-dismiss-notice' => 
     array (
-      'pretty_version' => '1.4.4',
-      'version' => '1.4.4.0',
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
       'aliases' => 
       array (
+        0 => '9999999-dev',
       ),
-      'reference' => '900739eb6b0ec0210465f5983a6d4e0e420289e4',
+      'reference' => '21949732f1ea21d81500bdda8f882ac7eb0f98af',
     ),
     'maithemewp/mai-influence' => 
     array (
@@ -36,7 +37,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => 'd5fb199358e277bf13d4a75ba3c3fdeee613ecbd',
+      'reference' => '034ac62a8bdd7b0acc1d226dad79494f9e433126',
     ),
     'maithemewp/mai-installer' => 
     array (
@@ -46,7 +47,7 @@
       array (
         0 => '9999999-dev',
       ),
-      'reference' => 'e6bff471a1d542c848f7247fe3cf018836c2204f',
+      'reference' => '244cf7604a6b34a4662c29385497d4257f175956',
     ),
   ),
 );
